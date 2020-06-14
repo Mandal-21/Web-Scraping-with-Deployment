@@ -15,11 +15,11 @@
 ### Deployment
 
 Cloud : **Pivotal**
-
+---
 
 ## Home Page
 
-![Home](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Home.png)
+![Home](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Home.PNG)
 
 ## Result Page
-![Result](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Result.png)
+![Result](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Result.PNG)
