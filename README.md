@@ -19,7 +19,7 @@ Cloud : **Pivotal**
 
 ## Home Page
 
-![Home](Web-Scraping-with-Deployment/Home.png)
+![Home](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Home.png)
 
 ## Result Page
-![Result](Web-Scraping-with-Deployment/Result.png)
+![Result](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Result.png)
