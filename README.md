@@ -14,7 +14,7 @@
 
 ## Home Page
 
-<img src=Capture.png width=900>
+<img src=Home.png width=900>
 
 ## Result Page
-<img src=Capture2.png width=900>
+<img src=Result.png width=900>
