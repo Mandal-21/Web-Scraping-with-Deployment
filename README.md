@@ -13,7 +13,7 @@
 * Bootstrap 4
 
 ## Deployment
-##### Cloud : **Pivotal**
+Cloud : **Pivotal**
 
 ## Home Page
 
