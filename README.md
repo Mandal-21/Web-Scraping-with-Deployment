@@ -16,7 +16,7 @@
 ## Deployment
 Cloud : **Pivotal**
 
-Website : [Quote Scraper](http://quotescraper-wise-rabbit-sh.cfapps.io){:target="_blank"}
+Website : [Quote Scraper](http://quotescraper-wise-rabbit-sh.cfapps.io" target="_blank)
 
 ## Home Page
 
