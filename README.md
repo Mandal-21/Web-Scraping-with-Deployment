@@ -13,13 +13,12 @@
 * Bootstrap 4
 
 ### Deployment
-
-Cloud : **Pivotal**
 ---
+### Cloud : **Pivotal**
 
 ## Home Page
 
-![Home](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Home.PNG)
+![Home](Home.PNG)
 
 ## Result Page
-![Result](https://github.com/Mandal-21/Web-Scraping-with-Deployment/Result.PNG)
+![Result](Result.PNG)
