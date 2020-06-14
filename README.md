@@ -12,9 +12,14 @@
 * CSS 3
 * Bootstrap 4
 
+### Deployment
+
+Cloud : **Pivotal**
+
+
 ## Home Page
 
-<img src=Home.png width=900>
+![Home](Home.png)
 
 ## Result Page
-<img src=Result.png width=900>
+![Result](Result.png)
