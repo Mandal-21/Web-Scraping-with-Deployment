@@ -12,9 +12,8 @@
 * CSS 3
 * Bootstrap 4
 
-### Deployment
----
-### Cloud : **Pivotal**
+## Deployment
+##### Cloud : **Pivotal**
 
 ## Home Page
 
