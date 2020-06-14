@@ -19,7 +19,7 @@ Cloud : **Pivotal**
 
 ## Home Page
 
-![Home](Home.png)
+![Home](Web-Scraping-with-Deployment/Home.png)
 
 ## Result Page
-![Result](Result.png)
+![Result](Web-Scraping-with-Deployment/Result.png)
